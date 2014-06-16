@@ -1,0 +1,8 @@
+name: Feudalism
+author: HumanityPlus
+version: 1
+description: Lets user join a kingdom, become its ruler, be a certain rank, other kingdom stuff
+main: me.Feudalism.Kingdoms.Main
+commands:
+	k help:
+		description: helps with kingdom stuff

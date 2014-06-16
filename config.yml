@@ -1,0 +1,173 @@
+# Default Configuration File for Kingdom Config -HP
+#area is in format topLeftXCoord-0-, topRightZCoord-1-, bottomRightXCoord-2-, bottomLeftZCoord-3-, 0-4-, 256-5-
+unoccupiedKingdoms: 4
+
+#FIRST QUAD
+k1:
+	occ: false
+	name:
+	ruler:
+	nobles: 
+	knights:
+	serfs:
+	area:
+		--4600.0
+		--4600.0
+		--2600.0
+		--2600.0
+		-0.0
+		-256.0
+k2:
+	occ: false
+	name:
+	ruler:
+	nobles:
+	knights:
+	serfs:
+	area:
+		--2200.0
+		--4600.0
+		--200.0
+		--2600.0
+		-0.0
+		-256.0
+k3:
+	occ: false
+	name:
+	ruler:
+	nobles:
+	knights:
+	serfs:
+	area:
+		--2200.0
+		--2200.0
+		--200.0
+		--200.0
+		-0.0
+		-256.0
+k4:
+	occ: false
+	name:
+	ruler:
+	nobles:
+	knights:
+	serfs:
+	area:
+		--4600.0
+		--2200.0
+		--2600.0
+		--200.0
+		-0.0
+		-256.0
+	
+#SECOND QUAD
+
+k5:
+	occ: false
+	name:
+	ruler:
+	nobles: 
+	knights:
+	serfs:
+	area:
+		-4600.0
+		--4600.0
+		-2600.0
+		--2600.0
+		-0.0
+		-256.0
+k6:
+	occ: false
+	name:
+	ruler:
+	nobles:
+	knights:
+	serfs:
+	area:
+		-
+k7:
+	occ: false
+	name:
+	ruler:
+	nobles:
+	knights:
+	serfs:
+	area:
+k8:
+	occ: false
+	name:
+	ruler:
+	nobles:
+	knights:
+	serfs:
+	area:
+
+#THIRD QUAD
+
+k9:
+	occ: false
+	name:
+	ruler:
+	nobles: 
+	knights:
+	serfs:
+	area:
+k10:
+	occ: false
+	name:
+	ruler:
+	nobles:
+	knights:
+	serfs:
+	area:
+k11:
+	occ: false
+	name:
+	ruler:
+	nobles:
+	knights:
+	serfs:
+	area:
+k12:
+	occ: false
+	name:
+	ruler:
+	nobles:
+	knights:
+	serfs:
+	area:
+	
+#FOURTH QUAD
+	
+k13:
+	occ: false
+	name:
+	ruler:
+	nobles: 
+	knights:
+	serfs:
+	area:
+k14:
+	occ: false
+	name:
+	ruler:
+	nobles:
+	knights:
+	serfs:
+	area:
+k15:
+	occ: false
+	name:
+	ruler:
+	nobles:
+	knights:
+	serfs:
+	area:
+k16:
+	occ: false
+	name:
+	ruler:
+	nobles:
+	knights:
+	serfs:
+	area:
